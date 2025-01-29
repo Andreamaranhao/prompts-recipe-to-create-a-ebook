@@ -14,9 +14,9 @@ _Microsoft copilot:_
 | --- | --- |
 | conteúdo| cite os cinco principais benefícios provenientes do microcrédito destinado a pessoas de baixa renda localizadas em comunidades. Deve estar alinhado ao tema de Impacto Social com IA. Traga exemplos práticos dos últimos dois anos. Mostre em formato de ebook. |
 | referências | Crie referências das 3 citações apresentadas |
-| título | Um título relacionado ao tema  |
-<br/>
-> Aperfeiçoando o título
+| título | Um título relacionado ao tema  |  
+  
+### Aperfeiçoando o título
 _ChatGPT:_
 | Ação | prompt |
 | --- | --- |
