@@ -4,7 +4,7 @@ Este é um repositório para a atividade "Criando um Ebook com ChatGPT e Midjour
 # Projeto EBOOK Gerado por I.A.s
 
 ## Tecnologias utilizadas no projeto
-- _Microsoft copilot_  
+- [_Microsoft copilot_](https://copilot.microsoft.com/)
 - [_ChatGPT_](https://chatgpt.com)  
 - [_PowerPoint_](https://www.microsoft.com/en/microsoft-365/powerpoint)  
 
@@ -26,9 +26,13 @@ _ChatGPT:_
 > [!IMPORTANT]
 > Não foi utilizado o Midjouney<br/>  
 
-> Conteúdo gerado via [ChatGPT](https://chatgpt.com)<br/>
+> [_Microsoft copilot_](https://copilot.microsoft.com/)
 
-> Imagem adquirida free através de download em [Pixabay](https://pixabay.com/pt/)<br/>
+> Conteúdo, título e referências gerados via  _Microsoft copilot_ nativo em desktop<br/>
+
+> Título regenerado via [ChatGPT](https://chatgpt.com)<br/>
+
+> Imagem free adquirida através de download em [Pixabay](https://pixabay.com/pt/)<br/>
 
 > A diagramação foi feita utilizando o [_PowerPoint_](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
