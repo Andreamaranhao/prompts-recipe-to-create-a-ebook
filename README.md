@@ -1,8 +1,10 @@
 # prompts-recipe-to-create-a-ebook
 Este é um repositório para a atividade "Criando um Ebook com ChatGPT e Midjourney".
 
-# Projeto EBOOK Gerado por I.A.s
-
+# Projeto EBOOK Gerado por I.A.s  
+> [!IMPORTANT]
+> Ler o [**e-Book**](/output/e-Book - Desafio CAIXA - Impacto Social com IA.pdf)<br/>
+  
 ## Tecnologias utilizadas no projeto
 - [_Microsoft copilot_](https://copilot.microsoft.com/)
 - [_ChatGPT_](https://chatgpt.com)  
