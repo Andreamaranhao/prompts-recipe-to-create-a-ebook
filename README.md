@@ -4,7 +4,7 @@ Este é um repositório para a atividade "Criando um Ebook com ChatGPT e Midjour
 # Projeto EBOOK Gerado por I.A.s  
 
 > [!IMPORTANT]
-> Ler o [**e-Book**](output/e-Book - Desafio CAIXA - Impacto Social com IA.pdf)<br/>
+> Para ler o [**e-Book**]([output/e-Book - Desafio CAIXA - Impacto Social com IA.pdf](https://github.com/luizantonio/prompts-recipe-to-create-a-ebook/blob/main/output/e-Book%20-%20Desafio%20CAIXA%20-%20Impacto%20Social%20com%20IA.pdf))<br/>
   
 ## Tecnologias utilizadas no projeto
 - [_Microsoft copilot_](https://copilot.microsoft.com/)
