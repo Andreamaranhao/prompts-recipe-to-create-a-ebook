@@ -4,9 +4,9 @@ Este é um repositório para a atividade "Criando um Ebook com ChatGPT e Midjour
 # Projeto EBOOK Gerado por I.A.s
 
 ## Tecnologias utilizadas no projeto
-+_Microsoft copilot_
-+[_ChatGPT_](https://chatgpt.com)
-+[_PowerPoint_](https://www.microsoft.com/en/microsoft-365/powerpoint)
+- _Microsoft copilot_  
+- [_ChatGPT_](https://chatgpt.com)  
+- [_PowerPoint_](https://www.microsoft.com/en/microsoft-365/powerpoint)  
 
 ## Prompts
 _Microsoft copilot:_
@@ -15,7 +15,7 @@ _Microsoft copilot:_
 | conteúdo| cite os cinco principais benefícios provenientes do microcrédito destinado a pessoas de baixa renda localizadas em comunidades. Deve estar alinhado ao tema de Impacto Social com IA. Traga exemplos práticos dos últimos dois anos. Mostre em formato de ebook. |
 | referências | Crie referências das 3 citações apresentadas |
 | título | Um título relacionado ao tema  |
-
+<br/>
 > Aperfeiçoando o título
 _ChatGPT:_
 | Ação | prompt |
@@ -24,9 +24,12 @@ _ChatGPT:_
 
 ## Features
 > [!IMPORTANT]
-> Não foi utilizado o Midjouney
-> Conteúdo gerado via [ChatGPT](https://chatgpt.com)
-> Imagem adquirida free através de download em [Pixabay](https://pixabay.com/pt/)
+> Não foi utilizado o Midjouney<br/>  
+
+> Conteúdo gerado via [ChatGPT](https://chatgpt.com)<br/>
+
+> Imagem adquirida free através de download em [Pixabay](https://pixabay.com/pt/)<br/>
+
 > A diagramação foi feita utilizando o [_PowerPoint_](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
 
