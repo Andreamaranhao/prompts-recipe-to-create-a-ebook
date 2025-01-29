@@ -1,7 +1,7 @@
 # prompts-recipe-to-create-a-ebook
 Este é um repositório para a atividade "Criando um Ebook com ChatGPT e Midjourney".
 
-# Projeto EBOOK Gerado por I.A.s  
+# Projeto EBOOK Gerado por I.A.s & Desafio CAIXA - Impacto social com IA  
 
 > [!IMPORTANT]
 > Para ler o [**e-Book**](https://github.com/luizantonio/prompts-recipe-to-create-a-ebook/blob/main/output/e-Book%20-%20Desafio%20CAIXA%20-%20Impacto%20Social%20com%20IA.pdf)<br/>
